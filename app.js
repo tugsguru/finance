@@ -31,7 +31,7 @@ var appController=(function(uiController,financeController){
 
         if(event.keyCode === 13 || event.which === 13) {
             
-            console.log("enter pressed")
+            console.log("enter pressed");
         }
         
     });
