@@ -11,7 +11,7 @@ var appController=(function(uiController,financeController){
     var ctrlAddItem = function(){
 
         //1. Oruulah ugugliig delgetsees olj avna 
-        console.log("1.9999")
+        console.log("1.9999");
 
         //2. Olj avsan ugugdluudee sanhuugiin controllert damjuulj tend hadgalna 
 
